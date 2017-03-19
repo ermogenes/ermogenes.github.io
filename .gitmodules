@@ -1,0 +1,3 @@
+[submodule "sac-price-js"]
+	path = sac-price-js
+	url = https://github.com/ermogenes/sac-price-js.git
